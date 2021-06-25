@@ -19,4 +19,4 @@ var Developer =
 
 ## Banner
 
-[Imgur](https://i.imgur.com/dJOIsEf.png)
+![Imgur](https://i.imgur.com/dJOIsEf.png)
