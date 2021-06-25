@@ -1,7 +1,4 @@
 ## About me: 
-
-![Imgur](https://i.imgur.com/dJOIsEf.png)
-
 ```javascript
 var Developer =
 {
@@ -13,9 +10,13 @@ var Developer =
   },
   "Frontend":{
     "Languages": ["HTML5", "CSSS3","Javascript(ECMA 6+)"],
-    "Frameworks": ["Angular11"],
+    "Frameworks": [ ![Angular](https://img.shields.io/badge/Angular%2011-Frontend-red)],
     "Experience": "11 months"
   }
 }
 ```
+### Developer 
+![Imgur](https://i.imgur.com/dJOIsEf.png)
+
+
 
