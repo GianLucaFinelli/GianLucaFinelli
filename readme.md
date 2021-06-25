@@ -1,5 +1,7 @@
 ## About me: 
 
+![Imgur](https://i.imgur.com/dJOIsEf.png)
+
 ```javascript
 var Developer =
 {
@@ -17,6 +19,3 @@ var Developer =
 }
 ```
 
-## Banner
-
-![Imgur](https://i.imgur.com/dJOIsEf.png)
