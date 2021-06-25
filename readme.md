@@ -16,3 +16,7 @@ var Developer =
   }
 }
 ```
+
+## Banner
+
+[Imgur](https://i.imgur.com/dJOIsEf.png)
