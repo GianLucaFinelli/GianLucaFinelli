@@ -38,6 +38,11 @@ var Developer =
 
 ```
 
+<div align="center" style="padding-bottom:2em">
+  <h3> Top languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianLucaFinelli&langs_count=10&theme=tokyonight&layout=compact" alt="Top skills" /
+</div>
+
 ```javascript
 const SPECIALITY = ["Backend","DevOps","Frontend"];
 const DREAMWORK = SPECIALITY["Frontend"]
