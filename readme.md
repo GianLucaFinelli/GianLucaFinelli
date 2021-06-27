@@ -1,8 +1,10 @@
 <div align="center">
-  <h2>Hello there! <web_𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> </h2>
+  <h1>I am web developer :computer:</h1>
 </div>
 
-## main skills <img src="https://komarev.com/ghpvc/?username=GianLucaFinelli" alt="profile"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GianLucaFinelli" alt="profile"/>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular%2011-Frontend-red" alt="angular"/>
   <img src="https://img.shields.io/badge/React%20Components-Frontend-9cf" alt="react"/>
@@ -10,10 +12,8 @@
   <img src="https://img.shields.io/badge/SQL%20Server-Database-success" alt="sqlServer"/>
 </div>
 
-## Information
-
 ```javascript
-var Developer =
+var developer =
 {
   "Backend":{
     "Language":  "C#",
@@ -34,22 +34,26 @@ var Developer =
    }
   }
 };
-
-
 ```
 
-<div align="center" style="padding-bottom:2em">
+<div align="center">
   <h3> Top languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianLucaFinelli&langs_count=10&theme=tokyonight&layout=compact" alt="Top skills" /
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianLucaFinelli&langs_count=10&theme=tokyonight&layout=compact" alt="Top skills" />
 </div>
+<div align="center">
+  <h3> Profile Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=GianLucaFinelli&show_icons=true&theme=synthwave" alt="Profile Stats" />
+</div>
+
+<br>
 
 ```javascript
 const SPECIALITY = ["Backend","DevOps","Frontend"];
-const DREAMWORK = SPECIALITY["Frontend"]
-developer.dreamwork = DREAMWORK;
+developer.dreamwork =  SPECIALITY["Frontend"];
 ```
+<br>
+<br>
 
-### Developer 
 ![Imgur](https://i.imgur.com/dJOIsEf.png)
 
 
