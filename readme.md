@@ -1,4 +1,8 @@
-## main skills: 
+<div align="center">
+<h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+</div>
+
+## main skills
  ![Angular](https://img.shields.io/badge/Angular%2011-Frontend-red)
  ![React](https://img.shields.io/badge/React%20Components-Frontend-9cf)
  ![net](https://img.shields.io/badge/.NET%20-Framework%20%20%2B%20Core-blueviolet)
@@ -19,6 +23,14 @@ var Developer =
     "UI": "Figma (Basic)"
     "Frameworks": ["Angular 11"],
     "Experience": "11 months"
+  },
+  "Database":{
+   "Language": "SQL",
+   "Relational": true,
+   "Database_server": {
+     "name": "Microsoft Sql Server",
+     "Environment": "Sql Server Managment Studio (SSMS)"
+   }
   }
 }
 ```
