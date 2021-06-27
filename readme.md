@@ -2,6 +2,9 @@
 <h2><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
 ## main skills
 ![Angular](https://img.shields.io/badge/Angular%2011-Frontend-red)
 ![React](https://img.shields.io/badge/React%20Components-Frontend-9cf)
