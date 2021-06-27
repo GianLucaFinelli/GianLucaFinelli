@@ -40,12 +40,8 @@ var Developer =
 
 ```javascript
 const SPECIALITY = ["Backend","DevOps","Frontend"];
-
-const DREAMWORK = (job) => {
-  if(job.canSpecialize){
-    job.accept = SPECIALITY["Frontend"]
-  }
-}
+const DREAMWORK = SPECIALITY["Frontend"]
+developer.dreamwork = DREAMWORK;
 ```
 
 ### Developer 
