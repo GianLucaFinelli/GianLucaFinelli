@@ -48,8 +48,7 @@ var developer =
 <br>
 
 ```javascript
-const SPECIALITY = ["Backend","DevOps","Frontend"];
-developer.dreamwork =  SPECIALITY["Frontend"];
+developer.dreamwork = "Frontend";
 ```
 <br>
 <br>
