@@ -3,9 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GianLucaFinelli" alt="profile"/>
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/Angular%2011-Frontend-red" alt="angular"/>
   <img src="https://img.shields.io/badge/React%20Components-Frontend-9cf" alt="react"/>
   <img src="https://img.shields.io/badge/.NET%20-Framework%20%20%2B%20Core-blueviolet" alt=".net"/>
