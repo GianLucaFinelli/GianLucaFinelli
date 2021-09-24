@@ -23,7 +23,7 @@ var developer =
   "Frontend":{
     "Languages": ["HTML5", "CSSS3","Javascript(ECMA 6+)"],
     "UI": "Figma (Basic)"
-    "Frameworks": ["Angular 11"]
+    "Frameworks": ["Angular"]
   },
   "Database":{
    "Language": "SQL",
