@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-Frontend-red" alt="angular"/>
-  <img src="https://img.shields.io/badge/React%20Components-Frontend-9cf" alt="react"/>
+  <img src="https://img.shields.io/badge/React-Frontend-9cf" alt="react"/>
   <img src="https://img.shields.io/badge/.NET%20-Framework%20%20%2B%20Core-blueviolet" alt=".net"/>
   <img src="https://img.shields.io/badge/SQL%20Server-Database-success" alt="sqlServer"/>
 </div>
